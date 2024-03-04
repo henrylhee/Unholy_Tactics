@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa9bcdb88237844a8aaafeb1c5451dd, type: 3}
+  m_Name: Pain and Blesing
+  m_EditorClassIdentifier: 
+  finishedResolving:
+    m_PersistentCalls:
+      m_Calls: []
+  actionStartSound:
+    audioClip: {fileID: 0}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  actionEndSound:
+    audioClip: {fileID: 0}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  <icon>k__BackingField: {fileID: 21300000, guid: afbccc9fb01f998489f59e98ac0a50ba, type: 3}
+  manaCost: 0
+  soulCost: 1
+  healthCost: 0
+  coolDown: 0
+  canHit: 2
+  castVFX: 0
+  splashEffectRange: 0
+  AoESphere: {fileID: 0}
+  <description>k__BackingField: Give Souls to Heal an allied Unit for _healing_
+  startOnCooldown: 0
+  m_Mask:
+    serializedVersion: 2
+    m_Bits: 0
+  range: 5
+  healing: 60

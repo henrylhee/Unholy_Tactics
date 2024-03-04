@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eef4c5815dce9c14a89e7da7154cccbe, type: 3}
+  m_Name: Poison Cloud
+  m_EditorClassIdentifier: 
+  finishedResolving:
+    m_PersistentCalls:
+      m_Calls: []
+  actionStartSound:
+    audioClip: {fileID: 8300000, guid: 17396ad013a507f43a24cd717a04ca9d, type: 3}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  actionEndSound:
+    audioClip: {fileID: 8300000, guid: aef5182763f5f4146b86f35caf86afb8, type: 3}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  <icon>k__BackingField: {fileID: 21300000, guid: 9c6f181b9a0776c4da8a10e40083abff, type: 3}
+  manaCost: 6
+  soulCost: 0
+  healthCost: 0
+  coolDown: 0
+  requiresLineOfSight: 1
+  canHit: 1
+  castVFX: 0
+  targetVFX: 2
+  splashEffectRange: 3
+  AoESphere: {fileID: 8985327309493901787, guid: 9f33621355b06d6499e97c6620165a7e, type: 3}
+  <description>k__BackingField: Poison Enemies in a medium area for 2 Damage per
+    Round for a Duration of 4 Rounds.
+  startOnCooldown: 0
+  buff: {fileID: 11400000, guid: 95f2c1905a753534cb1bc7a80de34036, type: 2}
+  range: 4

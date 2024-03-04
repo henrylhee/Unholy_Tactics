@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eef4c5815dce9c14a89e7da7154cccbe, type: 3}
+  m_Name: CriticalPotential
+  m_EditorClassIdentifier: 
+  finishedResolving:
+    m_PersistentCalls:
+      m_Calls: []
+  actionStartSound:
+    audioClip: {fileID: 0}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  actionEndSound:
+    audioClip: {fileID: 0}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  <icon>k__BackingField: {fileID: 21300000, guid: b9560cde4d906414398f5f746ead8d59, type: 3}
+  manaCost: 40
+  soulCost: 0
+  healthCost: 0
+  coolDown: 0
+  canHit: 2
+  castVFX: 1
+  splashEffectRange: 0
+  AoESphere: {fileID: 8985327309493901787, guid: 9f33621355b06d6499e97c6620165a7e, type: 3}
+  <description>k__BackingField: Increase the CritCHance of an allied Unit by 20%
+  startOnCooldown: 0
+  buff: {fileID: 11400000, guid: 1805be0039f038d4f8fa603837b90968, type: 2}
+  range: 5
+  m_Mask:
+    serializedVersion: 2
+    m_Bits: 0

@@ -1,0 +1,36 @@
+ID,Name,maxHp,SoulDrop,autoManaGeneration,lifetimeLimit,baseDamage,baseCritChance,baseCritDamage,baseAbilityRange,armorFactor,blockChance,Hit Chance
+Main Unit,Queen,10,0,1,0,0,0.01,1.5,1,0,0,1
+Melee Unit,Zombie Warrior,10,0,0,3,0,0.01,1.3,1,1,0,1
+Ranged Unit,Zombie Ranger,10,0,0,3,0,0.01,1.5,1,0,0,1
+Support,Blob,10,0,5,3,0,0.01,1.3,1,0,0,1
+Mage Unit,Warlock,10,0,0,3,0,0.01,1.5,1,0,0,1
+EnemyPawnUnit,TutoarialFae,3,0,0,0,0,0,0,1,0,0,0
+EnemyMeleeUnit,Knight,7,0,0,0,0,0.01,1.1,1,1,0,1
+EnemyRangeUnit,Archer,7,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyMageUnit,Mage,5,0,0,0,0,0.01,1.1,1,0,0,1
+EnemySupportUnit,Fae,3,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyTankUnit,Golden Knight,5,0,0,0,0,0.01,1.1,1,2,0,1
+EnemyPawnUnitLevel2,TutorialFae,6,0,0,0,0,0,0,1,0,0,0
+EnemyMeleeUnitLevel2,Blue Knight,10,0,0,0,1,0.01,1.1,1,1,0,1
+EnemyRangeUnitLevel2,Forrest Archer,8,0,0,0,0,0.01,1.1,1,1,0,1
+EnemyMageUnitLevel2,ArchMage,7,0,0,0,0,0.01,1.1,1,0,0,1
+EnemySupportUnitLevel2,Fae Mother,8,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyTankUnitLevel2,Golden Knight,10,0,0,0,0,0.01,1.1,1,5,0,1
+EnemyPawnUnitLevel3,Villager,12,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyMeleeUnitLevel3,Golden Knight,12,0,0,0,0,0.01,1.1,1,5,0,1
+EnemyRangeUnitLevel3,Royal Archer,12,0,0,0,1,0.01,1.1,1,0,0,1
+EnemyMageUnitLevel3,Pope,20,0,0,0,0,0.01,1.3,1,0,0,1
+EnemySupportUnitLevel3,Fae,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyTankUnitLevel3,Golden Knight,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyPawnUnitLevel4,Villager,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyMeleeUnitLevel4,Knight,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyRangeUnitLevel4,Archer,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyMageUnitLevel4,Mage,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemySupportUnitLevel4,Fae,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyTankUnitLevel4,Golden Knight,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyPawnUnitLevel5,Villager,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyMeleeUnitLevel5,Knight,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyRangeUnitLevel5,Archer,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyMageUnitLevel5,Mage,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemySupportUnitLevel5,Fae,10,0,0,0,0,0.01,1.1,1,0,0,1
+EnemyTankUnitLevel5,Golden Knight,10,0,0,0,0,0.01,1.1,1,0,0,1

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eef4c5815dce9c14a89e7da7154cccbe, type: 3}
+  m_Name: Rain Fire_Enemy
+  m_EditorClassIdentifier: 
+  finishedResolving:
+    m_PersistentCalls:
+      m_Calls: []
+  actionStartSound:
+    audioClip: {fileID: 8300000, guid: 854a8b6a66d8cf940a505145deab7b02, type: 3}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  actionEndSound:
+    audioClip: {fileID: 8300000, guid: 06548bdfb86a8624d9b143c81a6689e7, type: 3}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  <icon>k__BackingField: {fileID: 21300000, guid: 98e910c5103a83442b8af7e543f1ce1c, type: 3}
+  manaCost: 0
+  soulCost: 0
+  healthCost: 0
+  coolDown: 5
+  canHit: 1
+  castVFX: 1
+  splashEffectRange: 4
+  AoESphere: {fileID: 8985327309493901787, guid: 9f33621355b06d6499e97c6620165a7e, type: 3}
+  <description>k__BackingField: Show your Enemies what Hell feels like. 2 Damage
+    per Round over 5 Rounds.
+  startOnCooldown: 0
+  buff: {fileID: 11400000, guid: fa96b97c69291df4383d5a79bb8a405f, type: 2}
+  range: 7
+  m_Mask:
+    serializedVersion: 2
+    m_Bits: 64

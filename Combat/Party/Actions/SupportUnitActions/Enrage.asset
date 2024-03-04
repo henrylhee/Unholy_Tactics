@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eef4c5815dce9c14a89e7da7154cccbe, type: 3}
+  m_Name: Enrage
+  m_EditorClassIdentifier: 
+  finishedResolving:
+    m_PersistentCalls:
+      m_Calls: []
+  actionStartSound:
+    audioClip: {fileID: 8300000, guid: 17396ad013a507f43a24cd717a04ca9d, type: 3}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  actionEndSound:
+    audioClip: {fileID: 8300000, guid: acde0f315f26ad74c9107529346b2fbc, type: 3}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  <icon>k__BackingField: {fileID: 21300000, guid: 30eb58dce0f59ad4b9423b3f04904785, type: 3}
+  manaCost: 4
+  soulCost: 0
+  healthCost: 0
+  coolDown: 2
+  requiresLineOfSight: 1
+  canHit: 2
+  castVFX: 0
+  splashEffectRange: 2
+  AoESphere: {fileID: 8985327309493901787, guid: 9f33621355b06d6499e97c6620165a7e, type: 3}
+  <description>k__BackingField: Increase the Damage of targeted Units by 2 for 2
+    Rounds.
+  startOnCooldown: 0
+  buff: {fileID: 11400000, guid: 2c00e1b27760933418ed574d5b2b141f, type: 2}
+  range: 2

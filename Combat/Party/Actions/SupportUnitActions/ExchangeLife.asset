@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa9bcdb88237844a8aaafeb1c5451dd, type: 3}
+  m_Name: ExchangeLife
+  m_EditorClassIdentifier: 
+  finishedResolving:
+    m_PersistentCalls:
+      m_Calls: []
+  actionStartSound:
+    audioClip: {fileID: 8300000, guid: ef1da309c47f4db4bb40f19fc46f7c77, type: 3}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  actionEndSound:
+    audioClip: {fileID: 8300000, guid: 2b0b4289c4972924cbf8e450157274e6, type: 3}
+    group: {fileID: -7492691365388295573, guid: 4046b002fc9ee4041919e5787ce6fabd, type: 2}
+    volume: 0.2
+  <icon>k__BackingField: {fileID: 21300000, guid: a13ad7870768d0c43b67120547af61e3, type: 3}
+  manaCost: 5
+  soulCost: 0
+  healthCost: 4
+  coolDown: 0
+  canHit: 4
+  castVFX: 0
+  splashEffectRange: 0
+  AoESphere: {fileID: 0}
+  <description>k__BackingField: Give some of this Slimes Health to another Unit
+  startOnCooldown: 0
+  m_Mask:
+    serializedVersion: 2
+    m_Bits: 64
+  range: 5
+  healing: 7
