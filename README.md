@@ -1,11 +1,14 @@
 ![alt text](/ReadMe_Pictures/Unholy_Tactics_Banner.PNG?raw=true)
-
 # Unholy Tactics 
-Second semester project
+
+- Second semester project
+- Unity, 3D
+- Teamsize: 11
+- 10 weeks from first idea until finished game
 
 ### Round-based strategy game in the style of XCOM
-
-In Unholy Tactics you advance by cleverly summoning the right units, choose your attacks wisely and manage resources.
+In Unholy Tactics you advance by cleverly summoning the right units,  
+choose your attacks wisely and manage resources.
 
 ## Features
  - 16 levels
