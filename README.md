@@ -13,14 +13,16 @@ In Unholy Tactics you advance by cleverly summoning the right units, choose your
  - 5 diffrent enemies
  - units use a pool of 16 different spells
 
+## Responsibilities
+ - Gameplay programming
+ - Shader programming (Shadergraph)
+ - 
 ## Engine/Tools
  - Unity/C#
  - Visual Studio
  - Perforce
-
-## Roles
- - Gameplay programming
- - Shader programming (Shadergraph)
+ - Jira
 
 ##
- Homepage: [https://s4g.itch.io/unholy-tactics](https://s4g.itch.io/unholy-tactics)
+Homepage: [https://unholy-tactics.school4games.net](https://unholy-tactics.school4games.net)
+Itch: [https://s4g.itch.io/unholy-tactics](https://s4g.itch.io/unholy-tactics)
