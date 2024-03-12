@@ -6,7 +6,7 @@
 - Teamsize: 11
 - 10 weeks from first idea until finished game
 
-### Round-based strategy game in the style of XCOM
+### 3D tile-based strategy game in the style of XCOM
 In Unholy Tactics you advance by cleverly summoning the right units,  
 choose your attacks wisely and manage resources.
 
